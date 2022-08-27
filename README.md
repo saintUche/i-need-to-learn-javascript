@@ -1,2 +1,2 @@
 # i-need-to-learn-javascript
-Contains code files which is used to understand javascript
+Contains code files which I used to practice javascript
